@@ -8,3 +8,5 @@ Added Date Array, Time Array classes.
 BLOB array, Picture array are not mapped.
 
 OBJECT, OBJECT Array, BOOLEAN, not supported.
+
+Configured for 4D Cocoa.
