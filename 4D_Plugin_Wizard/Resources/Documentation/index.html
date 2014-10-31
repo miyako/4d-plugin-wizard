@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title><!--#4dtext [Projects]Name--></title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">  
+
+        <link rel="stylesheet" href="./styles/common.css">
+
+	</head>        
+
+    <body>
+        
+        <h3><!--#4dtext [Projects]Name--></h3>
+        <h4>Commands</h4>
+        
+        <!--because there is a bidirectional auto relation in the structure-->
+        
+        <!--#4deval SET FIELD RELATION:C919([Commands]Theme;2;2)--> 
+        <!--#4deval QUERY:C277([Themes];[Themes]Project=[Projects]ID)-->
+        
+        <!--#4deval $i:=0-->
+        <!--#4deval $j:=0-->
+    
+        <div>
+        <!--#4dloop [Themes]-->
+            <!--#4deval $i:=$i+1--> 
+            <div>
+                <a name="command-theme:<!--#4deval $i-->"></a>
+                <h5><!--#4dtext [Themes]Name--></h5>
+                
+                <!--#4deval QUERY:C277([Commands];[Commands]Theme=[Themes]ID)--> 
+            
+                <!--#4dloop [Commands]-->
+                    <a name="command:<!--#4deval $i-->,<!--#4deval $j-->"></a>
+                    <div>
+                        <!--#4dhtml GetCommandSyntax-->
+                    </div>                
+                <!--#4dendloop-->
+                
+            </div>
+        <!--#4dendloop-->
+        </div>
+        
+        <h4>Constants</h4>
+            
+        <!--#4deval SET FIELD RELATION:C919([Constants]GroupConst;2;2)-->    
+        <!--#4deval SET FIELD RELATION:C919([GroupConstants]Project;2;2)-->    
+        
+        <!--#4deval QUERY:C277([GroupConstants];[GroupConstants]Project=[Projects]ID)--> 
+ 
+        <!--#4deval $i:=0-->
+        <!--#4deval $j:=0-->
+ 
+        <div>
+        <!--#4dloop [GroupConstants]-->
+            <!--#4deval $i:=$i+1--> 
+            <div>
+                <a name="constant-theme:<!--#4deval $i-->"></a>
+                <h5><!--#4dtext [GroupConstants]Name--></h5>
+                
+                <!--#4deval QUERY:C277([Constants];[Constants]GroupConst=[GroupConstants]ID)--> 
+                
+                <!--#4dloop [Constants]-->
+                    <a name="constant:<!--#4deval $i-->,<!--#4deval $j-->"></a>
+                    <div>
+                        <!--#4dhtml GetConstantSyntax-->
+                    </div>                      
+                <!--#4dendloop-->    
+        
+            </div>        
+        <!--#4dendloop-->
+        </div>
+            
+    </body>
+</html>

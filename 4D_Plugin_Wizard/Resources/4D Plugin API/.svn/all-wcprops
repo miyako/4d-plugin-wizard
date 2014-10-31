@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/4d_4dpluginapi/!svn/ver/49/4D%20Plugin%20Wizard_14x/Extras/4D%20Plugin%20API
+END
+licence.txt
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/4d_4dpluginapi/!svn/ver/37/4D%20Plugin%20Wizard_14x/Extras/4D%20Plugin%20API/licence.txt
+END
+4DPluginAPI.c
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/4d_4dpluginapi/!svn/ver/49/4D%20Plugin%20Wizard_14x/Extras/4D%20Plugin%20API/4DPluginAPI.c
+END
+Flags.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/4d_4dpluginapi/!svn/ver/37/4D%20Plugin%20Wizard_14x/Extras/4D%20Plugin%20API/Flags.h
+END
+EntryPoints.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/4d_4dpluginapi/!svn/ver/41/4D%20Plugin%20Wizard_14x/Extras/4D%20Plugin%20API/EntryPoints.h
+END
+PrivateTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/4d_4dpluginapi/!svn/ver/37/4D%20Plugin%20Wizard_14x/Extras/4D%20Plugin%20API/PrivateTypes.h
+END
+4DPluginAPI.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/4d_4dpluginapi/!svn/ver/49/4D%20Plugin%20Wizard_14x/Extras/4D%20Plugin%20API/4DPluginAPI.h
+END
+PublicTypes.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/4d_4dpluginapi/!svn/ver/49/4D%20Plugin%20Wizard_14x/Extras/4D%20Plugin%20API/PublicTypes.h
+END
+4DPluginAPI.def
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/4d_4dpluginapi/!svn/ver/37/4D%20Plugin%20Wizard_14x/Extras/4D%20Plugin%20API/4DPluginAPI.def
+END

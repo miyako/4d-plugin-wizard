@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>DF0F3A91-A03D-4BCC-B341-2777659DBED2</string>
+	<key>IDESourceControlProjectName</key>
+	<string>4D Plugin</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>CA9588C94AB7EDB70477A59BABEB4DD25636DD27</key>
+		<string>https://github.com/miyako/4d-plugin-wizard-miyako-version.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>4D_Plugin_Wizard (v14)/Extras/4D Plugin.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>CA9588C94AB7EDB70477A59BABEB4DD25636DD27</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/miyako/4d-plugin-wizard-miyako-version.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>CA9588C94AB7EDB70477A59BABEB4DD25636DD27</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>CA9588C94AB7EDB70477A59BABEB4DD25636DD27</string>
+			<key>IDESourceControlWCCName</key>
+			<string>4d-plugin-wizard-miyako-version</string>
+		</dict>
+	</array>
+</dict>
+</plist>

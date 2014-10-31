@@ -1,0 +1,5 @@
+﻿/* Localized versions of Info.plist keys */
+
+CFBundleName = "4D Plugin";
+CFBundleShortVersionString = "1.0";
+CFBundleGetInfoString = "4D Plugin version 1.0, Copyright 2014 miyako.";
