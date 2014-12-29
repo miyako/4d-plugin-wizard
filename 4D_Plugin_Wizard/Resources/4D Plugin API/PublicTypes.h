@@ -68,6 +68,15 @@ typedef struct PluginBlock
 } PluginBlock;
 typedef PluginBlock* PA_PluginParameters;
 
+#ifndef uint8_t
+typedef unsigned char uint8_t;
+#endif
+#ifndef uint16_t
+typedef unsigned short uint16_t;
+#endif
+#ifndef uint32_t
+typedef unsigned int uint32_t;
+#endif
 typedef uint8_t * BytePtr;
 typedef BytePtr *PackagePtr;
 
