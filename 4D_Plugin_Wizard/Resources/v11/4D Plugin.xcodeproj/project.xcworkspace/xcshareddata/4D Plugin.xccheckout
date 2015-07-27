@@ -7,14 +7,14 @@
 	<key>IDESourceControlProjectIdentifier</key>
 	<string>3C6227E3-41E5-4EDA-8D10-519B99F411F1</string>
 	<key>IDESourceControlProjectName</key>
-	<string>4D Plugin</string>
+	<string>project</string>
 	<key>IDESourceControlProjectOriginsDictionary</key>
 	<dict>
 		<key>E3CD298E7774FD2E03E605086D93DFFBA9DE8199</key>
 		<string>https://github.com/miyako/4d-plugin-14-wizard-miyako-version.git</string>
 	</dict>
 	<key>IDESourceControlProjectPath</key>
-	<string>4D_Plugin_Wizard/Resources/v11/4D Plugin.xcodeproj</string>
+	<string>4D_Plugin_Wizard/Resources/v11/4D Plugin.xcodeproj/project.xcworkspace</string>
 	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
 	<dict>
 		<key>E3CD298E7774FD2E03E605086D93DFFBA9DE8199</key>

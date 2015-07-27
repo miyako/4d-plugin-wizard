@@ -1,0 +1,236 @@
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0001].4BK
+Scheduled 2015/03/23 21:02
+Starting 2015/03/23 21:02
+Ending 2015/03/23 21:02
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0002].4BK
+Creating log backup : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0001].4BL
+Scheduled 2015/03/24 0:00
+Starting 2015/03/23 21:02
+Ending 2015/03/23 21:02
+
+*** Automatic log integration
+Data file : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard.4DD
+Log file : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard.journal
+Starting : 2015/03/23 21:03
+Ending : 2015/03/23 21:03
+Result: OK
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0003].4BK
+Creating log backup : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0002].4BL
+Scheduled 2015/03/24 0:00
+Starting 2015/03/27 10:03
+Ending 2015/03/27 10:03
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0004].4BK
+Deleting old archive(s): 
+	Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0001].4BK
+Creating log backup : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0003].4BL
+Scheduled 2015/03/28 0:00
+Starting 2015/04/06 9:44
+Ending 2015/04/06 9:44
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0001].4BK
+Creating log backup : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0000].4BL
+Scheduled 2015/04/06 9:44
+Starting 2015/04/06 9:44
+Ending 2015/04/06 9:44
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0002].4BK
+Creating log backup : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0001].4BL
+Scheduled 2015/04/07 0:00
+Starting 2015/04/22 9:41
+Ending 2015/04/22 9:41
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0001].4BK
+Creating log backup : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0000].4BL
+Scheduled 2015/04/28 5:52
+Starting 2015/04/28 5:52
+Ending 2015/04/28 5:52
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0001].4BK
+Creating log backup : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0000].4BL
+Scheduled 2015/04/28 6:26
+Starting 2015/04/28 6:26
+Ending 2015/04/28 6:26
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0001].4BK
+Creating log backup : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0000].4BL
+Scheduled 2015/04/28 17:42
+Starting 2015/04/28 17:42
+Ending 2015/04/28 17:42
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:package-api[0001].4BK
+Creating log backup : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:package-api[0000].4BL
+Scheduled 2015/05/27 10:23
+Starting 2015/05/27 10:23
+Ending 2015/05/27 10:23
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:package-api[0002].4BK
+Creating log backup : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:package-api[0001].4BL
+Scheduled 2015/05/28 0:00
+Starting 2015/05/28 17:11
+Ending 2015/05/28 17:11
+
+*** Automatic log integration
+Data file : Macintosh HD:Users:miyako:Desktop:package-api.4DD
+Log file : Macintosh HD:Users:miyako:Desktop:package-api.journal
+Starting : 2015/05/28 23:16
+Ending : 2015/05/28 23:16
+Result: OK
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0001].4BK
+Creating log backup : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0000].4BL
+Scheduled 2015/06/02 12:01
+Starting 2015/06/02 12:01
+Ending 2015/06/02 12:01
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0002].4BK
+Creating log backup : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0001].4BL
+Scheduled 2015/06/03 0:00
+Starting 2015/06/05 18:23
+Ending 2015/06/05 18:23
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0001].4BK
+Scheduled 2015/06/05 20:46
+Starting 2015/06/05 20:46
+Ending 2015/06/05 20:46
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0002].4BK
+Scheduled 2015/06/06 0:00
+Starting 2015/06/08 11:51
+Ending 2015/06/08 11:51
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0001].4BK
+Creating log backup : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0000].4BL
+Scheduled 2015/06/08 11:51
+Starting 2015/06/08 11:51
+Ending 2015/06/08 11:51
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0001].4BK
+Creating log backup : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0000].4BL
+Scheduled 2015/06/08 13:59
+Starting 2015/06/08 13:59
+Ending 2015/06/08 13:59
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:Kotoeri Defaults[0001].4BK
+Creating log backup : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:Kotoeri Defaults[0000].4BL
+Scheduled 2015/06/08 17:10
+Starting 2015/06/08 17:10
+Ending 2015/06/08 17:10
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0001].4BK
+Creating log backup : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0000].4BL
+Scheduled 6/9/15 16:46
+Starting 6/9/15 16:46
+Ending 6/9/15 16:46
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0001].4BK
+Creating log backup : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0000].4BL
+Scheduled 2015/06/11 11:46
+Starting 2015/06/11 11:46
+Ending 2015/06/11 11:46
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0001].4BK
+Creating log backup : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0000].4BL
+Scheduled 2015/06/16 10:57
+Starting 2015/06/16 10:57
+Ending 2015/06/16 10:57
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0001].4BK
+Creating log backup : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0000].4BL
+Scheduled 2015/06/16 12:47
+Starting 2015/06/16 12:47
+Ending 2015/06/16 12:47
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0001].4BK
+Creating log backup : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0000].4BL
+Scheduled 2015/06/22 22:26
+Starting 2015/06/22 22:26
+Ending 2015/06/22 22:26
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0001].4BK
+Creating log backup : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0000].4BL
+Scheduled 2015/06/22 22:35
+Starting 2015/06/22 22:35
+Ending 2015/06/22 22:35
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0001].4BK
+Creating log backup : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0000].4BL
+Scheduled 2015/06/25 15:56
+Starting 2015/06/25 15:56
+Ending 2015/06/25 15:56
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0002].4BK
+Creating log backup : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0001].4BL
+Scheduled 2015/06/26 0:00
+Starting 2015/06/30 23:46
+Ending 2015/06/30 23:46
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0001].4BK
+Creating log backup : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0000].4BL
+Scheduled 2015/07/08 21:35
+Starting 2015/07/08 21:35
+Ending 2015/07/08 21:35
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0001].4BK
+Creating log backup : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0000].4BL
+Scheduled 2015/07/08 21:41
+Starting 2015/07/08 21:41
+Ending 2015/07/08 21:41
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0002].4BK
+Creating log backup : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0001].4BL
+Scheduled 2015/07/09 0:00
+Starting 2015/07/10 15:50
+Ending 2015/07/10 15:50
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0001].4BK
+Creating log backup : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0000].4BL
+Scheduled 2015/07/10 15:50
+Starting 2015/07/10 15:50
+Ending 2015/07/10 15:50
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0001].4BK
+Scheduled 2015/07/10 17:23
+Starting 2015/07/10 17:23
+Ending 2015/07/10 17:23
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0001].4BK
+Creating log backup : Macintosh HD:Users:miyako:github-miyako:4d-plugin-14-wizard-miyako-version:4D_Plugin_Wizard:4D_Plugin_Wizard[0000].4BL
+Scheduled 2015/07/10 19:08
+Starting 2015/07/10 19:08
+Ending 2015/07/10 19:08
+
