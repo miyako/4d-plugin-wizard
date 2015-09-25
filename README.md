@@ -1,4 +1,4 @@
-4D Plugin Wizard v14
+4D Plugin Wizard (miyako version)
 ====================
 
 Based on new SDK.
