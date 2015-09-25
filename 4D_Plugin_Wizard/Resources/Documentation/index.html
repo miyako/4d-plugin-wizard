@@ -33,6 +33,7 @@
                 <!--#4deval QUERY:C277([Commands];[Commands]Theme=[Themes]ID)--> 
             
                 <!--#4dloop [Commands]-->
+                    <!--#4deval $j:=$j+1-->
                     <a name="command:<!--#4deval $i-->,<!--#4deval $j-->"></a>
                     <div>
                         <!--#4dhtml GetCommandSyntax-->
@@ -63,6 +64,7 @@
                 <!--#4deval QUERY:C277([Constants];[Constants]GroupConst=[GroupConstants]ID)--> 
                 
                 <!--#4dloop [Constants]-->
+                    <!--#4deval $j:=$j+1--> 
                     <a name="constant:<!--#4deval $i-->,<!--#4deval $j-->"></a>
                     <div>
                         <!--#4dhtml GetConstantSyntax-->
