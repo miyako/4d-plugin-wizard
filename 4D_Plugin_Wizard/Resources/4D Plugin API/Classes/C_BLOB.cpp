@@ -31,8 +31,12 @@ void CBytes::toParamAtIndex(PackagePtr pParams, uint32_t index)
 		if (*h) PA_DisposeHandle(*h);
 				
 		PA_Handle d = PA_NewHandle((unsigned int)this->_CBytes.size());
-		PA_MoveBlock((char *)&this->_CBytes[0], PA_LockHandle(d), (unsigned int)this->_CBytes.size());
-		PA_UnlockHandle(d);
+        
+        if(this->_CBytes.size())//  0 is apparently a range violation on windows
+        {
+            PA_MoveBlock((char *)&this->_CBytes[0], PA_LockHandle(d), (unsigned int)this->_CBytes.size());
+            PA_UnlockHandle(d);
+        }
 		
 		*h = d;
 	}
@@ -63,8 +67,12 @@ void CBytes::setReturn(sLONG_PTR *pResult)
 	PA_Handle *h = (PA_Handle *)pResult;
 	
 	PA_Handle d = PA_NewHandle((unsigned int)this->_CBytes.size());
-	PA_MoveBlock((char *)&this->_CBytes[0], PA_LockHandle(d), (unsigned int)this->_CBytes.size());
-	PA_UnlockHandle(d);
+    
+    if(this->_CBytes.size())//  0 is apparently a range violation on windows
+    {
+        PA_MoveBlock((char *)&this->_CBytes[0], PA_LockHandle(d), (unsigned int)this->_CBytes.size());
+        PA_UnlockHandle(d);
+    }
 	
 	*h = d;
 }
