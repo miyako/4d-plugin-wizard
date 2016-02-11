@@ -1,0 +1,612 @@
+<?xml version="1.0" encoding="utf-8"?>
+<application xmlns="http://www.4d.com/namespace/reserved/FP/Constants">
+
+  <appid>"0"</appid>
+
+  <fourdversmin>"9.0.0"</fourdversmin>
+  <fourdversmax>"9.0.0"</fourdversmax>
+
+  <command name="WR ADD STYLESHEET TAB" str="12000" topic="159">
+    <param position="4" theme="12008"/>
+  </command>
+
+  <command name="WR ADD TAB" str="12000" topic="132">
+    <param position="3" theme="12008"/>
+  </command>
+
+  <command name="WR Area to picture" str="12000" topic="37">
+    <param position="2">
+      <item constant="1" theme="12011"/>
+      <item constant="2" theme="12011"/>
+    </param>
+    <param position="3">
+      <item constant="3" theme="12011"/>
+      <item constant="4" theme="12011"/>
+    </param>
+  </command>
+
+  <command name="WR BLOB TO PRINT SETTINGS" str="12000" topic="94">
+    <param position="3">
+      <item constant="5" theme="12011"/>
+      <item constant="6" theme="12011"/>
+    </param>
+  </command>
+
+  <command name="WR COUNT" str="12000" topic="143">
+    <param position="2" theme="12009"/>
+  </command>
+  
+  <command name="WR Create stylesheet" str="12000" topic="151">
+    <param position="3">
+      <item constant="7" theme="12011"/>
+      <item constant="8" theme="12011"/>
+    </param>
+  </command>
+
+  <command name="WR Direct find" str="12000" topic="110">
+    <param position="3">
+      <item constant="9" theme="12011"/>
+      <item constant="10" theme="12011"/>
+    </param>
+    <param position="4">
+      <item constant="11" theme="12011"/>
+      <item constant="12" theme="12011"/>
+    </param>
+  </command>
+
+  <command name="WR EXECUTE COMMAND" str="12000" topic="113">
+    <param position="2" theme="12007"/>
+  </command>
+
+  <command name="WR Find" str="12000" topic="111">
+    <param position="3">
+      <item constant="9" theme="12011"/>
+      <item constant="10" theme="12011"/>
+    </param>
+    <param position="4">
+      <item constant="11" theme="12011"/>
+      <item constant="12" theme="12011"/>
+    </param>
+    <param position="5">
+      <item constant="13" theme="12011"/>
+      <item constant="14" theme="12011"/>
+    </param>
+  </command>
+
+  <command name="WR GET AREA PROPERTY" str="12000" topic="138">
+    <param position="2" theme="12004"/>
+  </command>
+
+  <command name="WR GET COMMAND INFO" str="12000" topic="115">
+    <param position="2" theme="12007"/>
+  </command>
+
+  <command name="WR Get doc property" str="12000" topic="108">
+    <param position="2" theme="12003"/>
+  </command>
+
+  <command name="WR Get on event method" str="12000" topic="170">
+    <param position="2" theme="12005"/>
+  </command>
+
+  <command name="WR GET PRINT OPTION" str="12000" topic="174">
+    <param position="2" theme="12010"/>
+  </command>
+
+  <command name="WR Get stylesheet text prop" str="12000" topic="153">
+    <param position="3" theme="12000"/>
+  </command>
+
+  <command name="WR Get text property" str="12000" topic="102">
+    <param position="2" theme="12000"/>
+  </command>
+
+  <command name="WR INSERT DATE AND TIME" str="12000" topic="120">
+    <param position="2">
+      <item constant="15" theme="12011"/>
+      <item constant="1" theme="1"/>
+      <item constant="2" theme="1"/>
+      <item constant="3" theme="1"/>
+      <item constant="4" theme="1"/>
+      <item constant="5" theme="1"/>
+      <item constant="6" theme="1"/>
+      <item constant="7" theme="1"/>
+      <item constant="8" theme="1"/>
+      <item constant="9" theme="1"/>
+    </param>
+    <param position="3">
+      <item constant="16" theme="12011"/>
+      <item constant="1" theme="7"/>
+      <item constant="2" theme="7"/>
+      <item constant="3" theme="7"/>
+      <item constant="4" theme="7"/>
+      <item constant="5" theme="7"/>
+    </param>
+  </command>
+
+  <command name="WR INSERT EXPRESSION" str="12000" topic="24">
+    <param position="4" theme="1"/>
+    <param position="5" theme="7"/>
+  </command>
+
+  <command name="WR INSERT FIELD" str="12000" topic="22">
+    <param position="5" theme="1"/>
+    <param position="6" theme="7"/>
+    <param position="7">
+      <item constant="24" theme="12011"/>
+      <item constant="25" theme="12011"/>
+      <item constant="26" theme="12011"/>
+      <item constant="27" theme="12011"/>
+    </param>
+  </command>
+
+  <command name="WR INSERT HYPERLINK" str="12000" topic="147">
+    <param position="2">
+      <item constant="17" theme="12011"/>
+      <item constant="18" theme="12011"/>
+      <item constant="19" theme="12011"/>
+    </param>
+    <param position="3">
+      <item constant="20" theme="12011"/>
+      <item constant="21" theme="12011"/>
+    </param>
+  </command>
+
+  <command name="WR INSERT PAGE NUMBER" str="12000" topic="135">
+    <param position="2" theme="12012"/>
+    <param position="3">
+      <item constant="22" theme="12011"/>
+      <item constant="23" theme="12011"/>
+    </param>
+  </command>
+
+  <command name="WR INSERT PICTURE" str="12000" topic="119">
+    <param position="3">
+      <item constant="24" theme="12011"/>
+      <item constant="25" theme="12011"/>
+      <item constant="26" theme="12011"/>
+      <item constant="27" theme="12011"/>
+    </param>
+    <param position="6">
+      <item constant="28" theme="12011"/>
+      <item constant="29" theme="12011"/>
+    </param>
+    <param position="7">
+      <item constant="24" theme="12011"/>
+      <item constant="25" theme="12011"/>
+      <item constant="26" theme="12011"/>
+      <item constant="27" theme="12011"/>
+    </param>
+  </command>
+
+  <command name="WR Insert picture area" str="12000" topic="54">
+    <param position="3">
+      <item constant="30" theme="12011"/>
+      <item constant="31" theme="12011"/>
+    </param>
+  </command>
+
+  <command name="WR LOCK COMMAND" str="12000" topic="114">
+    <param position="2" theme="12007"/>
+    <param position="3">
+      <item constant="32" theme="12011"/>
+      <item constant="33" theme="12011"/>
+    </param>
+  </command>
+
+  <command name="WR LOCK DOCUMENT" str="12000" topic="146">
+    <param position="2">
+      <item constant="34" theme="12011"/>
+      <item constant="35" theme="12011"/>
+    </param>
+  </command>
+
+  <command name="WR PRINT" str="12000" topic="4">
+    <param position="2">
+      <item constant="36" theme="12011"/>
+      <item constant="37" theme="12011"/>
+    </param>
+  </command>
+
+  <command name="WR PRINT MERGE" str="12000" topic="5">
+    <param position="3">
+      <item constant="38" theme="12011"/>
+      <item constant="39" theme="12011"/>
+    </param>
+  </command>
+
+  <command name="WR Replace" str="12000" topic="112">
+    <param position="4">
+      <item constant="9" theme="12011"/>
+      <item constant="10" theme="12011"/>
+    </param>
+    <param position="5">
+      <item constant="11" theme="12011"/>
+      <item constant="12" theme="12011"/>
+    </param>
+    <param position="6">
+      <item constant="40" theme="12011"/>
+      <item constant="41" theme="12011"/>
+    </param>
+    <param position="7">
+      <item constant="13" theme="12011"/>
+      <item constant="14" theme="12011"/>
+    </param>
+  </command>
+
+  <command name="WR SAVE DOCUMENT" str="12000" topic="50">
+    <param position="3" theme="12013"/>
+  </command>
+
+  <command name="WR SELECT" str="12000" topic="59">
+    <param position="2" theme="12014"/>
+  </command>
+
+  <command name="WR SET AREA PROPERTY" str="12000" topic="137">
+    <param position="2" theme="12004"/>
+    <param position="3" previoustheme="12004" previousconstant="1">
+      <item constant="1" theme="12011"/>
+      <item constant="2" theme="12011"/>
+    </param>
+    <param position="3" previoustheme="12004" previousconstant="2">
+      <item constant="3" theme="12011"/>
+      <item constant="4" theme="12011"/>
+    </param>
+    <param position="3" previoustheme="12004" previousconstant="3">
+      <item constant="42" theme="12011"/>
+      <item constant="43" theme="12011"/>
+    </param>
+	<param position="3" previoustheme="12004" previousconstant="4">
+      <item constant="44" theme="12011"/>
+      <item constant="45" theme="12011"/>
+    </param>
+    <param position="3" previoustheme="12004" previousconstant="5">
+      <item constant="46" theme="12011"/>
+      <item constant="47" theme="12011"/>
+    </param>
+    <param position="3" previoustheme="12004" previousconstant="6">
+      <item constant="1" theme="12011"/>
+      <item constant="2" theme="12011"/>
+    </param>
+    <param position="3" previoustheme="12004" previousconstant="7">
+      <item constant="48" theme="12011"/>
+      <item constant="49" theme="12011"/>
+    </param>
+    <param position="3" previoustheme="12004" previousconstant="11">
+      <item constant="50" theme="12011"/>
+      <item constant="51" theme="12011"/>
+    </param>
+    <param position="3" previoustheme="12004" previousconstant="12">
+      <item constant="50" theme="12011"/>
+      <item constant="51" theme="12011"/>
+    </param>
+    <param position="3" previoustheme="12004" previousconstant="13">
+      <item constant="52" theme="12011"/>
+      <item constant="53" theme="12011"/>
+    </param>
+    <param position="3" previoustheme="12004" previousconstant="15">
+      <item constant="54" theme="12011"/>
+      <item constant="55" theme="12011"/>
+    </param>
+    <param position="3" previoustheme="12004" previousconstant="16">
+      <item constant="56" theme="12011"/>
+      <item constant="57" theme="12011"/>
+    </param>
+    <param position="3" previoustheme="12004" previousconstant="17">
+      <item constant="58" theme="12011"/>
+      <item constant="59" theme="12011"/>
+    </param>
+    <param position="3" previoustheme="12004" previousconstant="19">
+      <item constant="60" theme="12011"/>
+      <item constant="61" theme="12011"/>
+    </param>
+  </command>
+
+  <command name="WR SET DOC PROPERTY" str="12000" topic="109">
+    <param position="2" theme="12003"/>
+    <param position="3" previoustheme="12003" previousconstant="2">
+      <item constant="62" theme="12011"/>
+      <item constant="63" theme="12011"/>
+    </param>
+    <param position="3" previoustheme="12003" previousconstant="3">
+      <item constant="64" theme="12011"/>
+      <item constant="65" theme="12011"/>
+    </param>
+    <param position="3" previoustheme="12003" previousconstant="4">
+      <item constant="64" theme="12011"/>
+      <item constant="65" theme="12011"/>
+    </param>
+    <param position="3" previoustheme="12003" previousconstant="5">
+      <item constant="64" theme="12011"/>
+      <item constant="65" theme="12011"/>
+    </param>
+    <param position="3" previoustheme="12003" previousconstant="6">
+      <item constant="64" theme="12011"/>
+      <item constant="65" theme="12011"/>
+    </param>
+    <param position="3" previoustheme="12003" previousconstant="7">
+      <item constant="64" theme="12011"/>
+      <item constant="65" theme="12011"/>
+    </param>
+    <param position="3" previoustheme="12003" previousconstant="8">
+      <item constant="64" theme="12011"/>
+      <item constant="65" theme="12011"/>
+    </param>
+    <param position="3" previoustheme="12003" previousconstant="9">
+      <item constant="64" theme="12011"/>
+      <item constant="65" theme="12011"/>
+    </param>
+    <param position="3" previoustheme="12003" previousconstant="10">
+      <item constant="64" theme="12011"/>
+      <item constant="65" theme="12011"/>
+    </param>
+    <param position="3" previoustheme="12003" previousconstant="11">
+      <item constant="64" theme="12011"/>
+      <item constant="65" theme="12011"/>
+    </param>
+    <param position="3" previoustheme="12003" previousconstant="12">
+      <item constant="64" theme="12011"/>
+      <item constant="65" theme="12011"/>
+    </param>
+    <param position="3" previoustheme="12003" previousconstant="13">
+      <item constant="64" theme="12011"/>
+      <item constant="65" theme="12011"/>
+    </param>
+    <param position="3" previoustheme="12003" previousconstant="14">
+      <item constant="64" theme="12011"/>
+      <item constant="65" theme="12011"/>
+    </param>
+    <param position="3" previoustheme="12003" previousconstant="15">
+      <item constant="64" theme="12011"/>
+      <item constant="65" theme="12011"/>
+    </param>
+    <param position="3" previoustheme="12003" previousconstant="16">
+      <item constant="64" theme="12011"/>
+      <item constant="65" theme="12011"/>
+    </param>
+    <param position="3" previoustheme="12003" previousconstant="17">
+      <item constant="64" theme="12011"/>
+      <item constant="65" theme="12011"/>
+    </param>
+    <param position="3" previoustheme="12003" previousconstant="18">
+      <item constant="64" theme="12011"/>
+      <item constant="65" theme="12011"/>
+    </param>
+    <param position="3" previoustheme="12003" previousconstant="19">
+      <item constant="66" theme="12011"/>
+      <item constant="67" theme="12011"/>
+    </param>
+    <param position="3" previoustheme="12003" previousconstant="20">
+      <item constant="66" theme="12011"/>
+      <item constant="67" theme="12011"/>
+    </param>
+    <param position="3" previoustheme="12003" previousconstant="21">
+      <item constant="68" theme="12011"/>
+      <item constant="69" theme="12011"/>
+    </param>
+    <param position="3" previoustheme="12003" previousconstant="22">
+      <item constant="70" theme="12011"/>
+      <item constant="71" theme="12011"/>
+      <item constant="72" theme="12011"/>
+    </param>
+    <param position="3" previoustheme="12003" previousconstant="28">
+      <item constant="73" theme="12011"/>
+      <item constant="74" theme="12011"/>
+    </param>
+    <param position="3" previoustheme="12003" previousconstant="29">
+      <item constant="75" theme="12011"/>
+      <item constant="76" theme="12011"/>
+    </param>
+    <param position="3" previoustheme="12003" previousconstant="46">
+      <item constant="64" theme="12011"/>
+      <item constant="65" theme="12011"/>
+    </param>
+    <param position="3" previoustheme="12003" previousconstant="47">
+      <item constant="64" theme="12011"/>
+      <item constant="65" theme="12011"/>
+    </param>
+    <param position="3" previoustheme="12003" previousconstant="50">
+      <item constant="64" theme="12011"/>
+      <item constant="65" theme="12011"/>
+    </param>
+    <param position="3" previoustheme="12003" previousconstant="51">
+      <item constant="64" theme="12011"/>
+      <item constant="65" theme="12011"/>
+    </param>
+    <param position="3" previoustheme="12003" previousconstant="52">
+      <item constant="64" theme="12011"/>
+      <item constant="65" theme="12011"/>
+    </param>
+    <param position="3" previoustheme="12003" previousconstant="59">
+      <item constant="77" theme="12011"/>
+      <item constant="78" theme="12011"/>
+    </param>
+  </command>
+
+  <command name="WR SET FRAME" str="12000" topic="163">
+    <param position="2" theme="12006"/>
+  </command>
+
+  <command name="WR SET PICTURE IN PAGE INFO" str="12000" topic="122">
+    <param position="4">
+      <index constant="28" theme="12011"/>
+      <index constant="29" theme="12011"/>
+    </param>
+  </command>
+
+  <command name="WR SET PRINT OPTION" str="12000" topic="173">
+    <param position="2" theme="12010"/>
+    <param position="3" previoustheme="12010" previousconstant="2">
+      <item constant="79" theme="12011"/>
+      <item constant="80" theme="12011"/>
+    </param>
+    <param position="3" previoustheme="12010" previousconstant="8">
+      <item constant="81" theme="12011"/>
+      <item constant="82" theme="12011"/>
+    </param>
+    <param position="3" previoustheme="12010" previousconstant="9">
+      <item constant="83" theme="12011"/>
+      <item constant="84" theme="12011"/>
+      <item constant="85" theme="12011"/>
+    </param>
+    <param position="3" previoustheme="12010" previousconstant="11">
+      <item constant="86" theme="12011"/>
+      <item constant="87" theme="12011"/>
+    </param>
+    <param position="4" previoustheme="12011" previousconstant="87">
+      <item constant="88" theme="12011"/>
+      <item constant="89" theme="12011"/>
+    </param>
+  </command>
+
+  <command name="WR SET STYLESHEET INFO" str="12000" topic="149">
+    <param position="4">
+      <index constant="7" theme="12011"/>
+      <index constant="8" theme="12011"/>
+    </param>
+  </command>
+
+  <command name="WR SET STYLESHEET TAB" str="12000" topic="158">
+    <param position="5" theme="12008"/>
+  </command>
+
+  <command name="WR SET STYLESHEET TEXT PROP" str="12000" topic="152">
+    <param position="5" theme="12000"/>
+    <param position="6" previoustheme="12000" previousconstant="5">
+      <item constant="23" theme="12001"/>
+      <item constant="1" theme="12001"/>
+      <item constant="2" theme="12001"/>
+      <item constant="3" theme="12001"/>
+      <item constant="4" theme="12001"/>
+    </param>
+    <param position="6" previoustheme="12000" previousconstant="6">
+      <item constant="23" theme="12001"/>
+      <item constant="5" theme="12001"/>
+      <item constant="6" theme="12001"/>
+    </param>
+    <param position="6" previoustheme="12000" previousconstant="7">
+      <item constant="23" theme="12001"/>
+      <item constant="7" theme="12001"/>
+      <item constant="8" theme="12001"/>
+    </param>
+    <param position="6" previoustheme="12000" previousconstant="10" theme="12002"/>
+    <param position="6" previoustheme="12000" previousconstant="11" theme="12002"/>
+    <param position="6" previoustheme="12000" previousconstant="12" theme="12002"/>
+    <param position="6" previoustheme="12000" previousconstant="13" theme="12002"/>
+    <param position="6" previoustheme="12000" previousconstant="14" theme="12002"/>
+    <param position="6" previoustheme="12000" previousconstant="16">
+      <item constant="9" theme="12001"/>
+      <item constant="10" theme="12001"/>
+      <item constant="11" theme="12001"/>
+      <item constant="12" theme="12001"/>
+    </param>
+
+    <param position="6" previoustheme="12000" previousconstant="18">
+      <item constant="13" theme="12001"/>
+      <item constant="14" theme="12001"/>
+      <item constant="15" theme="12001"/>
+      <item constant="16" theme="12001"/>
+      <item constant="17" theme="12001"/>
+      <item constant="18" theme="12001"/>
+    </param>
+    <param position="6" previoustheme="12000" previousconstant="22" theme="12002"/>
+    <param position="6" previoustheme="12000" previousconstant="23" theme="12002"/>
+    <param position="6" previoustheme="12000" previousconstant="24">
+      <item constant="24" theme="12001"/>
+      <item constant="25" theme="12001"/>
+      <item constant="26" theme="12001"/>
+      <item constant="27" theme="12001"/>
+      <item constant="28" theme="12001"/>
+      <item constant="29" theme="12001"/>
+      <item constant="30" theme="12001"/>
+      <item constant="31" theme="12001"/>
+      <item constant="32" theme="12001"/>
+      <item constant="33" theme="12001"/>
+      <item constant="34" theme="12001"/>
+      <item constant="35" theme="12001"/>
+    </param>
+    <param position="6" previoustheme="12000" previousconstant="31">
+      <item constant="19" theme="12001"/>
+      <item constant="20" theme="12001"/>
+    </param>
+  </command>
+
+  <command name="WR SET TAB" str="12000" topic="131">
+    <param position="4" theme="12008"/>
+  </command>
+
+  <command name="WR SET TEXT PROPERTY" str="12000" topic="103">
+    <param position="2" theme="12000"/>
+    <param position="3" previoustheme="12000" previousconstant="5">
+      <item constant="23" theme="12001"/>
+      <item constant="1" theme="12001"/>
+      <item constant="2" theme="12001"/>
+      <item constant="3" theme="12001"/>
+      <item constant="4" theme="12001"/>
+    </param>
+    <param position="3" previoustheme="12000" previousconstant="6">
+      <item constant="23" theme="12001"/>
+      <item constant="5" theme="12001"/>
+      <item constant="6" theme="12001"/>
+    </param>
+    <param position="3" previoustheme="12000" previousconstant="7">
+      <item constant="23" theme="12001"/>
+      <item constant="7" theme="12001"/>
+      <item constant="8" theme="12001"/>
+    </param>
+    <param position="3" previoustheme="12000" previousconstant="10" theme="12002"/>
+    <param position="3" previoustheme="12000" previousconstant="11" theme="12002"/>
+    <param position="3" previoustheme="12000" previousconstant="12" theme="12002"/>
+    <param position="3" previoustheme="12000" previousconstant="13" theme="12002"/>
+    <param position="3" previoustheme="12000" previousconstant="14" theme="12002"/>
+    <param position="3" previoustheme="12000" previousconstant="16">
+      <item constant="9" theme="12001"/>
+      <item constant="10" theme="12001"/>
+      <item constant="11" theme="12001"/>
+      <item constant="12" theme="12001"/>
+    </param>
+    <param position="3" previoustheme="12000" previousconstant="18">
+      <item constant="13" theme="12001"/>
+      <item constant="14" theme="12001"/>
+      <item constant="15" theme="12001"/>
+      <item constant="16" theme="12001"/>
+      <item constant="17" theme="12001"/>
+      <item constant="18" theme="12001"/>
+    </param>
+    <param position="3" previoustheme="12000" previousconstant="22" theme="12002"/>
+    <param position="3" previoustheme="12000" previousconstant="23" theme="12002"/>
+    <param position="3" previoustheme="12000" previousconstant="24">
+      <item constant="24" theme="12001"/>
+      <item constant="25" theme="12001"/>
+      <item constant="26" theme="12001"/>
+      <item constant="27" theme="12001"/>
+      <item constant="28" theme="12001"/>
+      <item constant="29" theme="12001"/>
+      <item constant="30" theme="12001"/>
+      <item constant="31" theme="12001"/>
+      <item constant="32" theme="12001"/>
+      <item constant="33" theme="12001"/>
+      <item constant="34" theme="12001"/>
+      <item constant="35" theme="12001"/>
+    </param>
+    <param position="3" previoustheme="12000" previousconstant="31">
+      <item constant="19" theme="12001"/>
+      <item constant="20" theme="12001"/>
+    </param>
+  </command>
+
+  <command name="WR TEXT ACCESS" str="12000" topic="42">
+    <param position="2">
+      <item constant="90" theme="12011"/>
+      <item constant="91" theme="12011"/>
+    </param>   
+  </command>
+
+  <command name="WR UPDATE MODE" str="12000" topic="9">
+    <param position="2">
+      <item constant="92" theme="12011"/>
+      <item constant="93" theme="12011"/>
+    </param>
+  </command>
+
+</application>

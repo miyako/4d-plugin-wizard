@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--
+    Translation file for 4D products.
+    Copyright (C) 2012-2015 4D SAS.
+    This file is distributed under the same license as the 4D product package.
+-->
+<xliff version="1.0" xmlns:d4="http://www.4d.com">
+    <file datatype="x-STR#" original="undefined" source-language="en-US" target-language="en-US" product-version="v14">
+        <header>
+            <note>The character &quot;%&quot; (out of a numerical context) is a meta-character that
+                will be replaced (often by a numeric value) before the string is displayed</note>
+            <note>Text between less than (&lt;) and greater than (&gt;) symbols is a variable&apos;s
+                name and must not be localised</note>
+            <note>\r, \t and \n are meta-characters.</note>
+        </header>
+        <body>
+            <group id="12104" resname="4DWriteAbout">
+                <trans-unit id="1" resname="4DWriteVersionNumber" translate="no">
+                    <source>14.0</source>
+                </trans-unit>
+                <trans-unit id="2" resname="4DWritecopyright">
+                    <source>©4D SAS, 1999-2015. All rights reserved.</source>
+                    <target>©4D SAS, 1999-2015. All rights reserved.</target>
+                </trans-unit>
+            </group>
+            <group resname="Default Font">
+                <trans-unit id="1OldSTR12000" resname="DefaultFont" d4:includeIf="win">
+                    <source>Time New Roman</source>
+                    <target>Time New Roman</target>
+                </trans-unit>
+                <trans-unit id="2OldSTR12000" resname="DefaultFont" d4:includeIf="mac">
+                    <source>Lucida Grande</source>
+                    <target>Lucida Grande</target>
+                </trans-unit>
+            </group>
+        </body>
+    </file>
+</xliff>

@@ -61,7 +61,8 @@
                 <a name="constant-theme:<!--#4deval $i-->"></a>
                 <h5><!--#4dtext [GroupConstants]Name--></h5>
                 
-                <!--#4deval QUERY:C277([Constants];[Constants]GroupConst=[GroupConstants]ID)--> 
+                <!--#4deval QUERY:C277([Constants];[Constants]GroupConst=[GroupConstants]ID)-->
+																<!--#4deval ORDER BY:C49([Constants];[Constants]LongintValue;>)-->
                 
                 <!--#4dloop [Constants]-->
                     <!--#4deval $j:=$j+1--> 
