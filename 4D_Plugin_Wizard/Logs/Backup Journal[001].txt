@@ -1,0 +1,24 @@
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Documents:GitHub:4d-plugin-wizard:4D_Plugin_Wizard:4D_Plugin_Wizard[0001].4BK
+Scheduled 2016/08/03 16:23
+Starting 2016/08/03 16:23
+Ending 2016/08/03 16:23
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Documents:GitHub:4d-plugin-wizard:4D_Plugin_Wizard:4D_Plugin_Wizard[0001].4BK
+Scheduled 2/12/31 9:18
+Starting 2017/03/17 22:39
+Ending 2017/03/17 22:39
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Documents:GitHub:4d-plugin-wizard:4D_Plugin_Wizard:4D_Plugin_Wizard[0001].4BK
+Scheduled 2/12/31 9:18
+Starting 2017/03/17 23:23
+Ending 2017/03/17 23:23
+
+*** Full Backup
+Creating archive : Macintosh HD:Users:miyako:Documents:GitHub:4d-plugin-wizard:4D_Plugin_Wizard:4D_Plugin_Wizard[0002].4BK
+Scheduled 2/12/31 9:18
+Starting 2017/03/23 16:10
+Ending 2017/03/23 16:10
+
