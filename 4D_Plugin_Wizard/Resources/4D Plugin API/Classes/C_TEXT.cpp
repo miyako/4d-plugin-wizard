@@ -98,6 +98,8 @@ void C_TEXT::convertPath()
 	[posixPath release];
 }
 
+#pragma GCC diagnostic push
+#pragma GCC diagnostic ignored "-Wdeprecated-declarations"
 NSURL *C_TEXT::copyUrl()
 {
 	NSURL *u = NULL;
@@ -108,6 +110,7 @@ NSURL *C_TEXT::copyUrl()
 	
 	return u;
 }
+#pragma GCC diagnostic pop
 
 NSString* C_TEXT::copyUrlString()
 {
@@ -122,6 +125,8 @@ NSString* C_TEXT::copyUrlString()
 	return url;
 }
 
+#pragma GCC diagnostic push
+#pragma GCC diagnostic ignored "-Wdeprecated-declarations"
 NSString* C_TEXT::copyPathString()
 {
 	NSString *path = @"";
@@ -137,7 +142,10 @@ NSString* C_TEXT::copyPathString()
 	
 	return path;
 }
+#pragma GCC diagnostic pop
 
+#pragma GCC diagnostic push
+#pragma GCC diagnostic ignored "-Wdeprecated-declarations"
 void C_TEXT::setPath(NSString* path)
 {
 	if(path){
@@ -152,6 +160,8 @@ void C_TEXT::setPath(NSString* path)
 
 	}
 }
+#pragma GCC diagnostic pop
+
 #endif
 #endif
 
