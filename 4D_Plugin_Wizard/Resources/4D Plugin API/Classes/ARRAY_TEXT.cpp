@@ -289,7 +289,10 @@ NSString *ARRAY_TEXT::copyPathAtIndex(uint32_t index){
 	
 	return path;
 	
-}		
+}
+
+#pragma GCC diagnostic push
+#pragma GCC diagnostic ignored "-Wdeprecated-declarations"
 NSURL *ARRAY_TEXT::copyUrlAtIndex(uint32_t index){
 	
 	NSURL *u = NULL;
@@ -299,8 +302,9 @@ NSURL *ARRAY_TEXT::copyUrlAtIndex(uint32_t index){
 	[str release];
 	
 	return u;
-	
 }
+#pragma GCC diagnostic pop
+
 #endif
 #endif
 
